@@ -18,6 +18,9 @@ $ 2^3 $
  - Hobby, Demo
    - Recsys POI
      - Analysis map
+     - Demo system
+     - JP API (FS, yelp, FB, GG?, Tw?)
+     - , user interactive?, (dialogue), feedback mechanismed, CS
    - Recsys emoji
    - Sports analysis
      - Road race
