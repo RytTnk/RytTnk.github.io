@@ -1,6 +1,9 @@
 # RytTnk.github.io
 my web site
  https://ryttnk.github.io/
+ 
+ ---------------------------
+ 
 
 <div style="text-align: left;">
 <font size="4">Date</font>
@@ -12,7 +15,7 @@ my web site
 <br />
 
 <div style="text-align: center;">
-<font size="7">Jupyter Data Analysis No.01</font>
+<font size="7"> Title </font>
 </div>
 <br />
 <div style="text-align: right;">
@@ -21,7 +24,11 @@ my web site
 
 <br />
 
+color red test
+
 <font size="" color="red"> red </font>
+
+-------------------------
 
 ```math
 \left( \sum_{k=1}^n a_k b_k \right)^{!!2} \leq
@@ -48,6 +55,11 @@ $ 2^3 $
 ### HTML tagging
 - need page start-end point? especially **color**
 
+## blog plan
+- https://aloerina01.github.io/jekyll/2016/10/02/2.html 
+- http://jekyllrb-ja.github.io/docs/posts/
+### memo
+ - To do it, follow some rules? (article order notation date, index.html)
 
 ### OK
 - using URL online (http://idken.net/posts/2017-02-28-math_github/ , https://www.codecogs.com/latex/eqneditor.php)
