@@ -26,6 +26,7 @@ $ 2^3 $
 
 ### OK
 - using URL online 
+- As further tip, look http://chirimenmonster.github.io/2016/01/27/tex-equation.html 
 
 ## Plan
  - Connect with some tools like CSS and JS Dynamically enhanced
