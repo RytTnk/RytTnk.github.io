@@ -7,11 +7,25 @@ my web site
 \left( \sum_{k=1}^n a_k^2 \right) \left( \sum_{k=1}^n b_k^2 \right)
 ```
 
+```math
+\begin{eqnarray}
+4a &=& ((a+a)+a)+a \\
+&=& (a+a)+(a+a)
+\end{eqnarray}
+```
+
 $ 2^3 $ 
 
-## can not Dec6
+<img src="https://latex.codecogs.com/png.latex?x_{11}w_{11}" />
+
+## Update memo
+### can not Dec6
 - It can do comman term(ipnb it is automatically), but can not do math as need mathjax for self display to brawsing (not atomaticaly)
 - md. also is same above 
+- $$,# ``` #```,
+
+### OK
+- using URL online 
 
 ## Plan
  - Connect with some tools like CSS and JS Dynamically enhanced
