@@ -46,11 +46,15 @@ $ 2^3 $
 - $$,# ``` #```,
 
 ### HTML tagging
-- need page start-end point? 
+- need page start-end point? especially **color**
+
 
 ### OK
 - using URL online (http://idken.net/posts/2017-02-28-math_github/ , https://www.codecogs.com/latex/eqneditor.php)
-- As further tip, look http://chirimenmonster.github.io/2016/01/27/tex-equation.html 
+- As further tip, look http://chirimenmonster.github.io/2016/01/27/tex-equation.html for mathjax junkell (kne#~ OK but non-defalt needed setting)
+### HTML
+ - Title-like
+
 
 ## Plan
  - Connect with some tools like CSS and JS Dynamically enhanced
