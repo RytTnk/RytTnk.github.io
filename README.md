@@ -65,8 +65,8 @@ $ 2^3 $
 - need page start-end point? especially **color**
 
 ## blog plan
-- https://aloerina01.github.io/jekyll/2016/10/02/2.html 
-- http://jekyllrb-ja.github.io/docs/posts/
+- Tntro page: https://aloerina01.github.io/jekyll/2016/10/02/2.html 
+- jekyll formal pages: http://jekyllrb-ja.github.io/docs/posts/
 ### memo
  - To do it, follow some rules? (article order notation date, index.html)
 
