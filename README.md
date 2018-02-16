@@ -71,7 +71,7 @@ $ 2^3 $
 - need page start-end point? especially **color**
 
 ## blog plan
-- Tntro page: https://aloerina01.github.io/jekyll/2016/10/02/2.html 
+- I?ntro page: https://aloerina01.github.io/jekyll/2016/10/02/2.html 
 - jekyll formal pages: http://jekyllrb-ja.github.io/docs/posts/
 ### memo
  - To do it, follow some rules? (article order notation date, index.html)
@@ -94,5 +94,5 @@ $ 2^3 $
      - other interesting...
    
    - Social text analysis
-   - IOT
+   - IoT
    - Serendipity with exploiting data & user review
